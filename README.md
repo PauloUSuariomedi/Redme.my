@@ -26,7 +26,7 @@ I'm Paulo, a passionate software developer with a keen interest in open-source p
 ## 📫 How to Reach Me
 
 - **Email:** pauloguedes1920@outlook.com.br
-- **LinkedIn:** [PauloCesar]([https://www.linkedin.com/in/paulo-cesar-celestino-guedes-026974236/])
+- **LinkedIn:** [PauloCesar](https://www.linkedin.com/in/paulo-cesar-celestino-guedes-026974236/)
 
 
 ## 📈 GitHub Stats
